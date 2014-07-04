@@ -1,0 +1,17 @@
+{
+  "uuid": "b5ae728e-4c42-4531-9842-a21319af5130",
+  "shortName": "BinaryBlocks2",
+  "longName": "BinaryBlocks2",
+  "companyName": "Andyco",
+  "versionCode": 2,
+  "versionLabel": "2.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}

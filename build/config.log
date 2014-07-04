@@ -1,0 +1,18 @@
+# project  configured on Fri Jul  4 12:06:13 2014 by
+# waf 1.7.11 (abi 98, python 20706f0 on linux2)
+# using /home/andy/Desktop/Pebble/PebbleSDK-2.3/Pebble/waf configure build
+#
+----------------------------------------
+Setting top to
+/home/andy/Desktop/Pebble/PebbleSDK-2.3/BinaryBlocks2
+----------------------------------------
+Setting out to
+/home/andy/Desktop/Pebble/PebbleSDK-2.3/BinaryBlocks2/build
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-ar'
