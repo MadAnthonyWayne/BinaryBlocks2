@@ -6,6 +6,8 @@ With the watch the basic idea is that there are three columns, one for the hour 
 
 
 
+PLEASE VIEW IN 'RAW' DUE TO FORMATTING ERRORS FOR THE FOLLOWING EXPLANATION
+------------------------------------------------------------------------------
 The arrangement of the watch is like this:
 
 
@@ -20,7 +22,7 @@ Minutes Minutes
 For example:
 
  ___
-| |
+|   |
 |___|
 
 
